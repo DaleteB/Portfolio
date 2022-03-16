@@ -1,7 +1,6 @@
 :root {
   --primary-color: #c65d7b;
   --secundary-color: #874356;
-  --third-color: #f68989;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -61,7 +60,7 @@ h3 {
 }
 
 p {
-  background-color: var(--third-color);
+  background-color: var(--primary-color);
 
   padding: 20px;
   border-radius: 4px;
