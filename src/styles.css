@@ -62,6 +62,7 @@ h3 {
 
 p {
   background-color: var(--third-color);
+
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
@@ -77,6 +78,7 @@ p {
 
 .about-paragraph p {
   margin: 10px;
+  flex: 1;
 }
 
 .email-link {
